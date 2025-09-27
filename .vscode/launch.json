@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "f:\\Codes\\steveli.github.io\\index.html"
+            "file": "D:/Codes/3D_Vision/steveli88.github.io/index.html"
         }
     ]
 }
